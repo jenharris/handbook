@@ -10,7 +10,7 @@ A simple yet powerful technique for learning about how people think about and de
 * Gathers lists of words people use to describe groups of information
 
 ## How to do it:
-1. Decide what you want to learn.
+1. Decide what you want to learn:
     * Do you need to learn broad ideas about the information space? Validate a draft structure? Explore a structural idea in detail? Compare different audience groups? Justify a recommendation?
     * Common goals:
       * Learn how users think about the content and main groups to create top-level categories and sub-categories
@@ -20,18 +20,24 @@ A simple yet powerful technique for learning about how people think about and de
       * Collect names to use for labels or taxonomies
     * Before running a card sort, you need to understand the content you'll be working with so that you can choose appropriate content for the sort and ask the right questions
 
-2. Select the appropriate method (open, closed or hybrid; team or individual):
-    * Open card sort: a generative exercise; give participants a set of "cards" (paper index cards or a digital equivalent) and ask them to sort the cards into groups according to what's similar, and to name and/or describe the groups in whatever way makes sense to them; you can learn the most from this method if you use it when you're at the beginning of a design or redesign project
-    * Closed card sort: give people a set of cards and a predefined set of categories and ask them to sort the cards into the categories; use this type if you have a set of categories that can't be changed but you want to learn which content should go where, or you are adding a small amount of content to an existing structure
+2. Select your method(s) (open, closed or hybrid; team or individual; manual or remote/software):
+    * Open sort: a generative exercise; give participants a set of "cards" (paper index cards or a digital equivalent) and ask them to sort the cards into groups according to what's similar, and to name and/or describe the groups in whatever way makes sense to them; you can learn the most from this method if you use it at the beginning of a design or redesign project
+    * Closed sort: give people a set of cards and a predefined set of categories and ask them to sort the cards into the categories; use this type if you have a set of categories that can't be changed but you want to learn which content should go where, or you are adding a small amount of content to an existing structure
     * Hybrid is a kind of combination of closed and open. See Optimal Workshop's tips for [choosing the right card sorting technique based on your goals](https://www.optimalworkshop.com/101/card-sorting#sectionObjectives)
-    * Team
-    * Individual
+    * Team vs individual: decide whether to involve participants in groups/teams or individually
+      * Team pros: discussions among participants can yield valuable qualitative insights
+      * Team cons: group behavior and dominant personalities may sway or weaken the outcome of the exercise; difficult to coordinate, especially if testing remotely
+      * Individual pros: good for getting a large number of responses; easier to coordinate
+      * Individual cons: harder to get insight into the thought process that went into the sort
+    * Manual vs remote/software: in most cases we use remote card sorting tools (see below) since we are a distributed team, however you may want to consider manual card sorting during an onsite discovery sprint
+      * Manual pros: low-tech means it is more inclusive of a wide range of participants, including people less comfortable with using a digital tool; the physical dimension of the activity makes it intuitive for most people; easier to gather qualitative insights
+      * Software pros: allows you to involve remote participants and involve more people; collects data and enter it into analysis tools for you
 
-3. Choose the content.
+3. Choose content
 
-4. Recruit and invite participants.
+4. Recruit and invite participants
 
-5. Run the sort, record the data, analyze the outcomes.
+5. Run the sort, record the data, analyze the outcomes
 
 NOTE: Use card sorting in combination with complimentary user research techniques to understand what people need and how they approach tasks; for example: [interviews](stakeholder-interviews-guide.md), surveys, and existing analytics review.
 
